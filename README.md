@@ -35,3 +35,17 @@ I'm a Fullstack web developer from <img src="https://image.flaticon.com/icons/sv
 → <img src="https://image.flaticon.com/icons/svg/2111/2111646.svg" width="25"> <a target="_blank" href="https://t.me/ElIngeJuan" >TELEGRAM</a> <br> 
 → <img src="https://image.flaticon.com/icons/svg/733/733585.svg" width="25"> <a target="_blank" href="https://wa.me/message/WNRJRXFCQP6DB1" >WHATSAPP</a> <br>
 → <img src="https://image.flaticon.com/icons/svg/841/841364.svg" width="25"> <a target="_blank" href="https://solucion-informatica-express-tapachula.negocio.site/" >WEB SITE</a> <br> 
+
+<p align="left"> <a href="https://twitter.com/elingejuanmx" target="blank"><img src="https://img.shields.io/twitter/follow/elingejuanmx?logo=twitter&style=for-the-badge" alt="elingejuanmx" /></a> </p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/elingejuanmx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="elingejuanmx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iscjuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iscjuan" height="30" width="40" /></a>
+<a href="https://fb.com/iscjlop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iscjlop" height="30" width="40" /></a>
+<a href="https://instagram.com/elingejuanmx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elingejuanmx" height="30" width="40" /></a>
+<a href="https://medium.com/@juanluis1231" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@juanluis1231" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrViJk6RqA45u3e94zTSFvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="elingejuanmx" height="30" width="40" /></a>
+</p>
