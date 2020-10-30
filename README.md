@@ -34,7 +34,7 @@ I'm a Fullstack web developer from <img src="https://image.flaticon.com/icons/sv
 ## Contact me at:
 → <img src="https://image.flaticon.com/icons/svg/2111/2111646.svg" width="25"> <a target="_blank" href="https://t.me/ElIngeJuan" >TELEGRAM</a> <br> 
 → <img src="https://image.flaticon.com/icons/svg/733/733585.svg" width="25"> <a target="_blank" href="https://wa.me/message/WNRJRXFCQP6DB1" >WHATSAPP</a> <br>
-→ <img src="https://image.flaticon.com/icons/svg/841/841364.svg" width="25"> <a target="_blank" href="https://solucion-informatica-express-tapachula.negocio.site/" >WEB SITE</a> <br> 
+→ <img src="https://image.flaticon.com/icons/svg/841/841364.svg" width="25"> <a target="_blank" href="https://solucioninformaticaexpresstapachula.negocio.site/" >WEB SITE</a> <br> 
 
 <p align="left"> <a href="https://twitter.com/elingejuanmx" target="blank"><img src="https://img.shields.io/twitter/follow/elingejuanmx?logo=twitter&style=for-the-badge" alt="elingejuanmx" /></a> </p>
 
