@@ -49,3 +49,8 @@ I'm a Fullstack web developer from <img src="https://image.flaticon.com/icons/sv
 <a href="https://medium.com/@juanluis1231" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@juanluis1231" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCrViJk6RqA45u3e94zTSFvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="elingejuanmx" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baduser97&show_icons=true&locale=en&layout=compact" alt="baduser97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baduser97&show_icons=true&locale=en" alt="baduser97" /></p>
+
